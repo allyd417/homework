@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../Downloads/prework-study-guide"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootcamp",
+		"liveServer.settings.port": 5502
+	}
+}
